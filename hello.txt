@@ -1,2 +1,2 @@
 hey, there 
-I am learing Full Stack Web Developing
+I am learing MARN Stack Web Developing
