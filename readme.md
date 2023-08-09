@@ -13,3 +13,4 @@ git add <file name>
 git log
 git rm --staged file name
 git checkout
+git dknkks
